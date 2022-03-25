@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		6419AF8927EB5AC20050D17C /* Swift-algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-algorithm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6419AFA127EB5C310050D17C /* valid-palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "valid-palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419AFCA27EC8F9D0050D17C /* reverse-string.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "reverse-string.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419AFCB27EC99830050D17C /* reorder-data-in-log.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "reorder-data-in-log.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				6419AFA127EB5C310050D17C /* valid-palindrome.playground */,
+				6419AFCA27EC8F9D0050D17C /* reverse-string.playground */,
+				6419AFCB27EC99830050D17C /* reorder-data-in-log.playground */,
 			);
 			name = "6장문자열조작";
 			path = "문자열";
@@ -87,6 +91,7 @@
 				TargetAttributes = {
 					6419AF8827EB5AC20050D17C = {
 						CreatedOnToolsVersion = 13.1;
+						LastSwiftMigration = 1310;
 					};
 				};
 			};
@@ -250,6 +255,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XJJN8UXL48;
@@ -268,6 +274,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jmkim.Swift-algorithm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift-algorithm/문자열/Swift-algorithm-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -278,6 +286,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = XJJN8UXL48;
@@ -296,6 +305,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jmkim.Swift-algorithm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Swift-algorithm/문자열/Swift-algorithm-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
