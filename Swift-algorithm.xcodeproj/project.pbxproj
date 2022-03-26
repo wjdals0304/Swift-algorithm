@@ -13,6 +13,7 @@
 		6419AFCB27EC99830050D17C /* reorder-data-in-log.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "reorder-data-in-log.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419AFCC27ED5A140050D17C /* most-common-word.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "most-common-word.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF4627EDA71F00B136E9 /* group-anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "group-anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FF4727EDFB8D00B136E9 /* longest-palindromic-substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "longest-palindromic-substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				6419AFCB27EC99830050D17C /* reorder-data-in-log.playground */,
 				6419AFCC27ED5A140050D17C /* most-common-word.playground */,
 				6419FF4627EDA71F00B136E9 /* group-anagrams.playground */,
+				6419FF4727EDFB8D00B136E9 /* longest-palindromic-substring.playground */,
 			);
 			name = "6장문자열조작";
 			path = "문자열";
