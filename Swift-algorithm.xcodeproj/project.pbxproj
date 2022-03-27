@@ -14,6 +14,8 @@
 		6419AFCC27ED5A140050D17C /* most-common-word.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "most-common-word.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF4627EDA71F00B136E9 /* group-anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "group-anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF4727EDFB8D00B136E9 /* longest-palindromic-substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "longest-palindromic-substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FF4927EEE65C00B136E9 /* two-sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "two-sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "trapping-rain-water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				6419AFA027EB5AEE0050D17C /* 6장문자열조작 */,
+				6419FF4827EEE62D00B136E9 /* 배열 */,
 			);
 			path = "Swift-algorithm";
 			sourceTree = "<group>";
@@ -63,6 +66,16 @@
 			);
 			name = "6장문자열조작";
 			path = "문자열";
+			sourceTree = "<group>";
+		};
+		6419FF4827EEE62D00B136E9 /* 배열 */ = {
+			isa = PBXGroup;
+			children = (
+				6419FF4927EEE65C00B136E9 /* two-sum.playground */,
+				6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */,
+			);
+			name = "배열";
+			path = "배열";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
