@@ -3,7 +3,7 @@
 
 
 
-# 해결 한 문제(6)
+# 해결 한 문제(8)
 
 
 
@@ -14,3 +14,8 @@
 - [most-common-word](https://leetcode.com/problems/most-common-word/)
 - [group-anagrams](https://leetcode.com/problems/group-anagrams/)   
 - [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)  
+
+
+## 배열(2) 
+- [two-sum] https://leetcode.com/problems/two-sum/ 
+- [trapping-rain-water] https://leetcode.com/problems/trapping-rain-water/
