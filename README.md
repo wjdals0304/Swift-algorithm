@@ -17,5 +17,5 @@
 
 
 ## 배열(2) 
-- [two-sum] https://leetcode.com/problems/two-sum/ 
-- [trapping-rain-water] https://leetcode.com/problems/trapping-rain-water/
+- [two-sum](https://leetcode.com/problems/two-sum/)
+- [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)
