@@ -16,6 +16,7 @@
 		6419FF4727EDFB8D00B136E9 /* longest-palindromic-substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "longest-palindromic-substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF4927EEE65C00B136E9 /* two-sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "two-sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "trapping-rain-water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FF6B27F156DA00B136E9 /* 3sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 			children = (
 				6419FF4927EEE65C00B136E9 /* two-sum.playground */,
 				6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */,
+				6419FF6B27F156DA00B136E9 /* 3sum.playground */,
 			);
 			name = "배열";
 			path = "배열";
