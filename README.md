@@ -3,7 +3,7 @@
 
 
 
-# 해결 한 문제(9)
+# 해결 한 문제(11)
 
 
 
@@ -16,7 +16,9 @@
 - [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 
 
-### 배열(3) 
+### 배열(5) 
 - [two-sum](https://leetcode.com/problems/two-sum/)
 - [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)
 - [array-partition](https://leetcode.com/problems/array-partition-i/)
+- [3sum](https://leetcode.com/problems/3sum/)
+- [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
