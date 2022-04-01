@@ -17,6 +17,7 @@
 		6419FF4927EEE65C00B136E9 /* two-sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "two-sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "trapping-rain-water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF6B27F156DA00B136E9 /* 3sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FFB027F6E79400B136E9 /* valid-parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "valid-parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 			children = (
 				6419AFA027EB5AEE0050D17C /* 6장문자열조작 */,
 				6419FF4827EEE62D00B136E9 /* 배열 */,
+				6419FFAF27F6E76E00B136E9 /* 스택,큐 */,
 			);
 			path = "Swift-algorithm";
 			sourceTree = "<group>";
@@ -78,6 +80,15 @@
 			);
 			name = "배열";
 			path = "배열";
+			sourceTree = "<group>";
+		};
+		6419FFAF27F6E76E00B136E9 /* 스택,큐 */ = {
+			isa = PBXGroup;
+			children = (
+				6419FFB027F6E79400B136E9 /* valid-parentheses.playground */,
+			);
+			name = "스택,큐";
+			path = "스택,큐";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
