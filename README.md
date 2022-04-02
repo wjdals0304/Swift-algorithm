@@ -3,9 +3,6 @@
 
 
 
-# 해결 한 문제(11)
-
-
 
 ### 문자열 처리(6) 
 - [valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -22,3 +19,7 @@
 - [array-partition](https://leetcode.com/problems/array-partition-i/)
 - [3sum](https://leetcode.com/problems/3sum/)
 - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+
+### 스택,큐(1)
+- [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) 
