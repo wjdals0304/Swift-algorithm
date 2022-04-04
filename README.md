@@ -21,6 +21,6 @@
 - [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
-### 스택,큐(1)
+### 스택,큐(2)
 - [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) 
 - [daily-temperatures](https://leetcode.com/problems/daily-temperatures/) 
