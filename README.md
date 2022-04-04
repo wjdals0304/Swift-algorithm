@@ -23,3 +23,4 @@
 
 ### 스택,큐(1)
 - [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) 
+- [daily-temperatures](https://leetcode.com/problems/daily-temperatures/) 
