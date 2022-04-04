@@ -18,6 +18,8 @@
 		6419FF6A27F0610800B136E9 /* trapping-rain-water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "trapping-rain-water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FF6B27F156DA00B136E9 /* 3sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3sum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		6419FFB027F6E79400B136E9 /* valid-parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "valid-parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FFB127F93AA800B136E9 /* remove-duplicate-letters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "remove-duplicate-letters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6419FFB227FAB47900B136E9 /* daily-temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "daily-temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,8 @@
 			isa = PBXGroup;
 			children = (
 				6419FFB027F6E79400B136E9 /* valid-parentheses.playground */,
+				6419FFB127F93AA800B136E9 /* remove-duplicate-letters.playground */,
+				6419FFB227FAB47900B136E9 /* daily-temperatures.playground */,
 			);
 			name = "스택,큐";
 			path = "스택,큐";
